@@ -16,6 +16,7 @@ import redis.clients.jedis.Jedis;
  * Represents the results of a search query.
  *
  */
+/****hihi**/
 public class WikiSearch {
 
 	// map from URLs that contain the term(s) to relevance score
